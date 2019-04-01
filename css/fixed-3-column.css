@@ -8,10 +8,14 @@
 .main {
   float: right;
   width: 530px;
+  padding-right: 10px;
+  padding-left: 10px
 }
 
 .aside {
   width: 200px;
+  padding-right: 10px;
+  padding-left: 10px
 }
 
 .aside1 {
